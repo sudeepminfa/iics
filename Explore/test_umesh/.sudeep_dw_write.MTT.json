@@ -1,0 +1,142 @@
+[
+   {
+      "objectGuid": "2LTVYmWNwSkbqjRuO5ozyf",
+      "objectName": "sudeep_dw_write",
+      "objectType": "MTT",
+      "path": "/Explore/test_umesh",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": "",
+            "documentState": "VALID"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [
+            "2LUGIVyBuU2eF7nAfKEZiS",
+            "5haevaGml0Xblco2EAcTyP",
+            "8mdH1gRawsviLglQU3EuYC",
+            "1MndwQ7sJRZbopj1PIqdOl"
+         ],
+         "repoInfo": {
+            "repoHandle": "0100ON0Z0000000002DN"
+         }
+      }
+   },
+   {
+      "objectGuid": "2LUGIVyBuU2eF7nAfKEZiS",
+      "objectName": "sudeep_dw",
+      "objectType": "Connection",
+      "path": "/SYS",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": null,
+            "documentState": "COMPLETE"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "0100ON0B0000000001I6"
+         }
+      }
+   },
+   {
+      "objectGuid": "5haevaGml0Xblco2EAcTyP",
+      "objectName": "Mapping723",
+      "objectType": "DTEMPLATE",
+      "path": "/Explore/test_umesh",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": "",
+            "documentState": "VALID"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "0100ON17000000000269"
+         }
+      }
+   },
+   {
+      "objectGuid": "8mdH1gRawsviLglQU3EuYC",
+      "objectName": "sudeep_neeraj_ff",
+      "objectType": "Connection",
+      "path": "/SYS",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": "orochimaru",
+            "documentState": "COMPLETE"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "0100ON0B0000000000XQ"
+         }
+      }
+   },
+   {
+      "objectGuid": "1MndwQ7sJRZbopj1PIqdOl",
+      "objectName": "___NeerajIICS001_DO_NOT_RENAME",
+      "objectType": "AgentGroup",
+      "path": "/SYS",
+      "metadata": {
+         "additionalInfo": {
+            "contentType": "JSON",
+            "description": null,
+            "documentState": "VALID"
+         },
+         "contextAttributes": [
+            {
+               "name": "id",
+               "value": "@1"
+            }
+         ],
+         "modelVersion": {
+            "major": 0,
+            "minor": 0
+         },
+         "objectRefs": [],
+         "repoInfo": {
+            "repoHandle": "0100ON2500000000002M"
+         }
+      }
+   }
+]
